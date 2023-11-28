@@ -35,3 +35,6 @@ El Tutorial explicacion mostrará la mecánica principal del juego y aprovechara
 
 ### 27-11-23
 Guardado de la versión legado de ColorBand. Análisis de estructura, sistema de niveles y scripts principales del juego. Pruebas de jugabilidad. Se inició el diseño de la explicación tutorial.
+
+### 28-11-23
+Se creo la escena para el tutorial, ademas de la creacion de assets inspirados en Kessouku Band para Color Band. Se modifico la distribucion de elementos en la escena del menu para incorporar el boton tutorial. Se planifico el flujo tutorial con la mecanica principal en la primera y segunda fase, ademas de la explicacion del sistema dinamico.
