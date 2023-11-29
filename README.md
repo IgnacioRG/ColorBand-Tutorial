@@ -38,3 +38,6 @@ Guardado de la versión legado de ColorBand. Análisis de estructura, sistema de
 
 ### 28-11-23
 Se creo la escena para el tutorial, ademas de la creacion de assets inspirados en Kessouku Band para Color Band. Se modifico la distribucion de elementos en la escena del menu para incorporar el boton tutorial. Se planifico el flujo tutorial con la mecanica principal en la primera y segunda fase, ademas de la explicacion del sistema dinamico.
+
+### 29-11-23
+Se termino de hacer el flujo del tutorial y se añadieron mas elementos esteticos al tutorial aprovechando mas los assets disponibles. ademas de crear los recursos explicativos. Tutorial terminado.
